@@ -104,7 +104,7 @@
 | 📱 [AI Skin Disease Detection](https://github.com/Din2522/AI-Skin-Disease-Detector) | Upload image → Detect disease → Show remedies |
 | 📝 [To-Do App](https://github.com/Din2522/TodoApp) | Real-time syncing tasks using Firebase |
 | 🔒 [Secure Auth System](https://github.com/Din2522/Secure-Auth) | Role-based login with password hashing |
-| 👨‍💻 [Animated Portfolio](https://port-folio-digital.vercel.app/) | Stylish, black & grey themed personal portfolio |
+| 👨‍💻 [Animated Portfolio] | Stylish, black & grey themed personal portfolio |
 
 ---
 
