@@ -51,5 +51,5 @@
 
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dineshkumar2522)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/your_username)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/_dinesh_2522)
 [![Email](https://img.shields.io/badge/Email-ClickHere-green?style=flat-square&logo=gmail)](mailto:S.dinesh2006kumar@gmail.com)
