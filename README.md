@@ -110,8 +110,8 @@
 
 ### 📜 Certifications & Internships
 
-- 🌐 **Skybrisk (Web Development Intern)**
-- 🤖 **Prodigy Infotech (Python Developer Intern)**
+- 🌐 **Skybrisk (Word prees and SEO Intern)**
+- 🤖 **Prodigy Infotech (Web Developer Intern)**
 - 🧠 **Naan Mudhalvan (AI Project Lead - Fraud Detection)**
 
 ---
