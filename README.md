@@ -27,7 +27,6 @@
 - 🔸 Semantic & Accessible Markup  
 - 🔸 Forms, Inputs, Validation  
 - 🔸 Used in 10+ frontend projects  
-- 🔗 [HTML Projects](https://github.com/Din2522?tab=repositories&q=html)
 
 </details>
 
@@ -37,7 +36,6 @@
 - 🎨 Flexbox, Grid, Media Queries  
 - 🌀 Animations, Transitions  
 - ✨ Styled multiple landing pages  
-- 🔗 [CSS Projects](https://github.com/Din2522?tab=repositories&q=css)
 
 </details>
 
@@ -47,7 +45,6 @@
 - 🧠 DOM Manipulation, Fetch API  
 - ⚙️ ES6+, Async/Await  
 - 🚀 Built dynamic UI features  
-- 🔗 [JS Projects](https://github.com/Din2522?tab=repositories&q=javascript)
 
 </details>
 
@@ -57,7 +54,6 @@
 - 🌐 REST APIs, Express  
 - 📁 File system, middleware  
 - 🛒 Backend for E-Commerce site  
-- 🔗 [Node Projects](https://github.com/Din2522?tab=repositories&q=node)
 
 </details>
 
@@ -67,7 +63,6 @@
 - 🗄️ Mongoose ODM  
 - 🔍 CRUD operations, Aggregation  
 - 🔐 Used in full-stack projects  
-- 🔗 [MongoDB Projects](https://github.com/Din2522?tab=repositories&q=mongodb)
 
 </details>
 
@@ -76,8 +71,7 @@
 
 - 📊 Data Analysis, Pandas, NumPy  
 - 🤖 AI Projects (Fraud Detection, etc.)  
-- 📦 Flask, automation scripts  
-- 🔗 [Python Projects](https://github.com/Din2522?tab=repositories&q=python)
+- 📦 Flask, automation scripts 
 
 </details>
 
@@ -87,7 +81,6 @@
 - 🔐 Auth, Firestore  
 - ☁️ Hosting, Realtime DB  
 - 📱 Used in Flutter & Web Apps  
-- 🔗 [Firebase Projects](https://github.com/Din2522?tab=repositories&q=firebase)
 
 </details>
 
