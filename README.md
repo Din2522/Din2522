@@ -1,131 +1,111 @@
-
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast | 📱 Intern @ Gaotek Inc  | </h3>
+<h3 align="center">Aspiring Data Scientist | ML Enthusiast | B.Tech IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;WordPress+%26+SEO+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F59E0B&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real-World+Projects;Business+Analytics+%26+Data+Storytelling" />
 </p>
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 About Me
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#html5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#css3)
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](#javascript)
-[![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](#nodejs)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#mongodb)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#python)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)](#firebase)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#git)
-
----
-
-<details id="html5">
-<summary>🟥 HTML5</summary>
-
-- 🔸 Semantic & Accessible Markup  
-- 🔸 Forms, Inputs, Validation  
-- 🔸 Used in 10+ frontend projects  
-
-</details>
-
-<details id="css3">
-<summary>🟦 CSS3</summary>
-
-- 🎨 Flexbox, Grid, Media Queries  
-- 🌀 Animations, Transitions  
-- ✨ Styled multiple landing pages  
-
-</details>
-
-<details id="javascript">
-<summary>🟨 JavaScript</summary>
-
-- 🧠 DOM Manipulation, Fetch API  
-- ⚙️ ES6+, Async/Await  
-- 🚀 Built dynamic UI features  
-
-</details>
-
-<details id="nodejs">
-<summary>🟩 Node.js</summary>
-
-- 🌐 REST APIs, Express  
-- 📁 File system, middleware  
-- 🛒 Backend for E-Commerce site  
-
-</details>
-
-<details id="mongodb">
-<summary>🟢 MongoDB</summary>
-
-- 🗄️ Mongoose ODM  
-- 🔍 CRUD operations, Aggregation  
-- 🔐 Used in full-stack projects  
-
-</details>
-
-<details id="python">
-<summary>🐍 Python</summary>
-
-- 📊 Data Analysis, Pandas, NumPy  
-- 🤖 AI Projects (Fraud Detection, etc.)  
-- 📦 Flask, automation scripts 
-
-</details>
-
-<details id="firebase">
-<summary>🔥 Firebase</summary>
-
-- 🔐 Auth, Firestore  
-- ☁️ Hosting, Realtime DB  
-- 📱 Used in Flutter & Web Apps  
-
-</details>
-
-<details id="git">
-<summary>🧰 Git & GitHub</summary>
-
-- 🔄 Version control  
-- 🛠️ GitHub Actions  
-- 🔗 [My GitHub Repos](https://github.com/Din2522)
-
-</details>
+- 🎓 B.Tech Information Technology Student (2023–2027)
+- 🤖 Passionate about Machine Learning & Data Analytics
+- 📊 Experienced in Fraud Detection & E-Commerce Analytics
+- 💼 Completed a 6-month remote internship with a US-based company
+- 🚀 Founder of **DK Netwaves** — freelance digital documentation services
+- 📈 Interested in Data Science, Analytics & Business Intelligence
+- 🌱 Currently learning:
+  - SQL Window Functions
+  - Clustering
+  - Model Evaluation
+  - Data Storytelling
 
 ---
 
-### 🧑‍💻 Projects I'm Proud Of:
+## 🛠️ Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| 💡 [AI-Based Fraud Detection](https://github.com/Din2522/AI-Fraud-Detection-System) | Detects financial fraud using ML, with dashboard & alerts |
-| 🛒 [Blessing Technology E-Commerce](https://github.com/Din2522/BlessingTechnology) | Grocery e-commerce with MongoDB backend |
-| 📱 [AI Skin Disease Detection](https://github.com/Din2522/AI-Skin-Disease-Detector) | Upload image → Detect disease → Show remedies |
-| 📝 [To-Do App](https://github.com/Din2522/TodoApp) | Real-time syncing tasks using Firebase |
-| 🔒 [Secure Auth System](https://github.com/Din2522/Secure-Auth) | Role-based login with password hashing |
-| 👨‍💻 [Animated Portfolio] | Stylish, black & grey themed personal portfolio |
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📚 ML / Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 📊 Visualization & Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-### 📜 Certifications & Internships
+## 📌 Featured Projects
 
-- 🌐 **Skybrisk (Word prees and SEO Intern)**
-- 🤖 **Prodigy Infotech (Web Developer Intern)**
-- 🧠 **Naan Mudhalvan (AI Project Lead - Fraud Detection)**
+### 🔹 AI Fraud Detection
+- Built an ML pipeline for fraud detection
+- Applied preprocessing, outlier removal & classification models
+- Used Logistic Regression & Decision Trees
+- Created data visualizations for pattern analysis
+
+### 🔹 E-Commerce Analytics
+- Performed cohort & customer behavior analysis
+- Built analytical reports with actionable insights
+- Product performance tracking using data-driven methods
+
+### 🔹 Task Manager Web App
+- Full-stack task management application
+- CRUD operations with responsive UI
+- Real-time task handling and clean UX design
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Din2522&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Din2522&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Din2522&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Din2522&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dinesh-kumar-7795742a5/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/_dinesh_2522)
-[![Email](https://img.shields.io/badge/Email-Click_Here-green?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&to=S.dinesh2006kumar@gmail.com)
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Din2522&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Din2522" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/dinesh-kumar-s-7795742a5" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> I enjoy transforming raw data into meaningful insights and building projects that solve real-world problems.
+
+---
+
+<p align="center">
+  ⭐ From <b>Dinesh Kumar</b>
+</p>
